@@ -97,9 +97,6 @@
     <ClCompile Include="xphoto.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="wechat_qrcode.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bgsegm.h">
@@ -371,9 +368,6 @@
     </ClInclude>
     <ClInclude Include="imgproc_Segmentation.h">
       <Filter>Header Files\imgproc</Filter>
-    </ClInclude>
-    <ClInclude Include="wechat_qrcode.h">
-      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
